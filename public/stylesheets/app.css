@@ -1,0 +1,11 @@
+i.icon {
+  font-size: 2em;
+}
+
+.container.text {
+  margin-top: 5em;
+}
+
+#delete {
+  display: inline;
+}
